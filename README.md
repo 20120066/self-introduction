@@ -11,6 +11,7 @@
 ### 趣味
 ###### ・絵を描く
 ###### ![描いた絵](https://pbs.twimg.com/media/FEOlvsCakAIHP5T?format=jpg&name=large)
+###### <img src="https://pbs.twimg.com/media/FEOlvsCakAIHP5T?format=jpg&name=large" width="320px">
 ###### ・読書
 ## 概要
 ### 所属
