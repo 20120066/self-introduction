@@ -10,7 +10,7 @@
 ###### ・新潟県新潟市
 ### 趣味
 ###### ・絵を描く
-# ![This is an image](https://www.bannerkoubou.com/anime/)
+# ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ###### ・読書
 ## 概要
 ### 所属
