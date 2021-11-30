@@ -11,6 +11,7 @@
 ### 趣味
 ###### ・絵を描く
 ###### <img src="https://pbs.twimg.com/media/FEOlvsCakAIHP5T?format=jpg&name=large" width="300px"> <img src="https://pbs.twimg.com/media/FFbw8X5aUAEMV_M?format=jpg&name=large" width="300px">
+<img src="https://pbs.twimg.com/media/FEOlvsCakAIHP5T?format=jpg&name=large","https://pbs.twimg.com/media/FFbw8X5aUAEMV_M?format=jpg&name=large" width="300px">
 ## 概要
 ### 学校
 ###### ・[開志専門職大学](https://kaishi-pu.ac.jp/)
