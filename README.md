@@ -10,6 +10,7 @@
 ###### ・新潟県新潟市
 ### 趣味
 ###### ・絵を描く
+### ![This is an image](file:///Users/sakaishu/Desktop/EwwA8AihNAwgaP1C881Q1638253032-1638253562.gif)
 ###### ・読書
 ## 概要
 ### 所属
