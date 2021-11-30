@@ -11,7 +11,6 @@
 ### 趣味
 ###### ・絵を描く
 ###### <img src="https://pbs.twimg.com/media/FEOlvsCakAIHP5T?format=jpg&name=large" width="320px">       <img src="https://pbs.twimg.com/media/FFbw8X5aUAEMV_M?format=jpg&name=large" width="320px">
-###### ・読書
 ## 概要
 ### 所属
 ###### ・情報学部 2年
