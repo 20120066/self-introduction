@@ -10,7 +10,7 @@
 ###### ・新潟県新潟市
 ### 趣味
 ###### ・絵を描く
-# ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+# ![This is an image](https://twitter.com/usisakayui_4869/status/1460192947299782659/photo/1)
 ###### ・読書
 ## 概要
 ### 所属
